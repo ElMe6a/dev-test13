@@ -1,8 +1,3 @@
-`5.3.5`
--------
-
-- **Fix:** error on debt journal init
-
 `5.3.4`
 -------
 
